@@ -44,7 +44,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(Images/background.jpeg) no-repeat;
+    background: url(background.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
